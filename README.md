@@ -40,7 +40,7 @@ We can create a statistical study where we can quantify how the design of the Me
 
 #### Metrics
 Collecting data for comparable models across all most manufacturers using the following metrics:
-*  Engine Type (electric, hybrid or gas), Safety Features, Current Selling Price. 
+*  Engine Type (electric, hybrid or gas), Safety Features, Current Selling Price, Horsepower 
 
 #### Hypothesis: Null and Alternative
 After determining which factors are key for the MechaCar's genre:
@@ -49,6 +49,4 @@ After determining which factors are key for the MechaCar's genre:
  * Alternative Hypothesis (Ha): MechaCar is not priced correctly based on performance of key factors.
 
 #### Statistical Tests
- I would run a multiple linear regression to determine the factors that have the highest correlation/predictability with the list selling price, or determine which combination has the greatest impact on price.
-
-
+ I would run a multiple linear regression to determine the factors that have the highest correlation/predictability with the list selling price, or determine which combination has the greatest impact on price. The data required will need formulas applied to certain metrics and coefficients to produce a graph. I would use the ```lm(formula)``` option.
