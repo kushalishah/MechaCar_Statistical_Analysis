@@ -1,5 +1,6 @@
 # MechaCar_Statistical_Analysis
-#Overview
+
+## Overview
 Performing statistical tests to create a technical report for the AutosRUs' MechaCar product development team to justify different prototypes.
 
 # Deliverable 1
